@@ -8,7 +8,7 @@
         @vite('resources/css/app.css')
         
     </head>
-    <body class="site-body">
+    <body class="site-body min-w-96">
         <header class="p-3 border-b bg-black">
             <div class="container mx-auto flex justify-between items-center">
                 <img src="/image/carousel/banquea.png" alt="Logo de BANQUEA.pe" style="max-width: 200px; height: auto;">

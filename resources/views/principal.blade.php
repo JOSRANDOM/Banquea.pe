@@ -55,6 +55,7 @@
 </section>
 
     <!-- Agrega el título "Nuestras Plataformas" -->
+<section id="plataformas">
     <div class="container mx-auto mt-10 text-center">
         <h3 class="text-5xl font-bold mb-5 text-gray-900">
             Nuestras Plataformas
@@ -156,389 +157,45 @@
             
         </div>
     </div>
+</section>
+    
 
         <!--"Nuestros Aliados" -->
+<section id="aliados" class="mb-20">
     <div class="container mx-auto mt-10 text-center">
         <h3 class="text-5xl font-bold mb-5 text-gray-900">
             Nuestros Aliados
         </h3>
     </div>
-    <div class="flex items-center justify-center min-h-screen container mx-auto sm:min-h-0 bg-white">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div class="flex items-center justify-center container mb-5 sm:min-h-0 bg-white">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
             <!-- Agrega dos imágenes centradas -->
-            <div class="flex items-center justify-center">
+            <div class="flex items-end justify-center pb-4">
                 <img src="/image/carousel/startup.png" alt="Imagen 3" class="max-w-full h-auto size-80 opacity-30">
             </div>
-            <div class="flex items-center justify-center">
+            <div class="flex items-end justify-center">
                 <img src="/image/carousel/E-2.jpg" alt="Imagen 1" class="max-w-full h-auto size-80 opacity-30">
             </div>
-            <div class="flex items-center justify-center">
+            <div class="flex items-end justify-center">
                 <img src="/image/carousel/R-2.jpg" alt="Imagen 2" class="max-w-full h-auto size-80 opacity-30">
             </div>
-        </div>
-    </div>
-    <div class="flex items-center justify-center min-h-screen container mx-auto sm:min-h-0 bg-white">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-8">
-            <div class="flex items-center justify-center">
+            <div class="flex items-end justify-center">
                 <img src="/image/carousel/bio.png" alt="Imagen 4" class="max-w-full h-auto size-80 opacity-30">
             </div>
         </div>
     </div>
-
+</section>
     
-        <!--"Precios" 
-    <di class="max-w-7xl m-auto">
-        <section id="pricing" class="my-24">
-            <header class="text-center">
-                <h3 class="text-5xl font-bold mb-5 text-gray-900">
-                    Nuestros Planes
-                </h3>
-                <p class="text-xl text-gray-400 mb-2">
-                    Obtén acceso por los meses que necesites ó empieza probándolo totalmente gratis.
-                </p>
-                <p class="text-xl font-bold text-gray-500">
-                    Las compras son procesadas de manera segura por la pasarela de pagos Mercado Pago.
-                </p>
-            </header>
 
-            <div class="flex flex-col mt-10 mx-5 space-y-5 md:space-y-0 md:flex-row md:space-x-5 md:mx-0 justify-between">
-                -->
-                <!--"basico" 
-                <div class="flex-1">
-                    <div class="bg-white p-10 rounded-lg">
-                        <div class="flex justify-between items-center">
-                            <div>
-                                <h4 class="text-2xl font-bold text-gray-900">Plan Gratuito</h4>
-                                <p class="text-xs text-gray-500">Basico</p>
-                            </div>
-                        </div>
-                        <hr class="text-gray-100 mt-5" />
-
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-indigo-900">Prueba nuestras plataformas con funcionalidades limitadas</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <button class="bg-green-300 text-lg text-black w-full py-3 rounded-lg
-                            hover:bg-gray-400 hover:drop-shadow-md transition duration-300 ease-in-out">SUSCRIBIRSE</button>
-                        </div>
-                    </div>
-                </div>
-                    -->
-                <!--"premiun mensual" 
-                <div class="flex-1">
-                    <div class="bg-white p-10 rounded-lg">
-                        <div class="flex justify-between items-center">
-                            <div>
-                                <h4 class="text-2xl font-bold text-gray-900">Plan Premiun</h4>
-                            </div>
-                            <div class="bg-gray-100 p2 rounded-lg text-center">
-                                <h4 class="text-2xl font-bold text-gray-900">S/ 50</h4>
-                                <p class="text-xs text-gray-500">Mensual</p>
-                            </div>
-                        </div>
-                        <hr class="text-gray-100 mt-5" />
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Exámenes ilimitados</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Cientos de preguntas</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Revisión de resultados</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Análisis de progreso</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Ranking de estudiantes</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <button class="bg-green-300 text-lg text-black w-full py-3 rounded-lg
-                            hover:bg-gray-400 hover:drop-shadow-md transition duration-300 ease-in-out">SUSCRIBIRSE</button>
-                        </div>
-                    </div>
-                </div>-->
-
-                <!--"premiun 6 meses" 
-                <div class="flex-1">
-                    <div class="bg-white p-10 rounded-lg">
-                        <div class="flex justify-between items-center">
-                            <div>
-                                <h4 class="text-2xl font-bold text-gray-900">Plan Premiun +</h4>
-                            </div>
-                            <div class="bg-gray-100 p2 rounded-lg text-center">
-                                <h4 class="text-2xl font-bold text-gray-900">S/ 300</h4>
-                                <p class="text-xs text-gray-500">6 Meses</p>
-                            </div>
-                        </div>
-                        <hr class="text-gray-100 mt-5" />
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Exámenes ilimitados</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Cientos de preguntas</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Revisión de resultados</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Análisis de progreso</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <ul class="space-y-4">
-                                <li class="flex items-center">
-                                    <div class="bg-indigo-900 rounded-full p-1">
-                                        <svg 
-                                        class="flex-shrink-0 h-4 w-4 text-white"
-                                        xmlns="http://www.w3.org/2000/svg"
-                                        fill="nome"
-                                        viewBox="0 0 24 24"
-                                        stroke="currentColor"
-                                        aria-hidden="true"
-                                        >
-                                        <path
-                                        stroke-linecap="round"
-                                        stroke-linejoin="round"
-                                        stroke-width="2"
-                                        d="M5 13l4 4L19 7"
-                                        />
-                                        </svg>
-                                    </div>
-                                    <span class="ml-3 text-base text-gray-900">Ranking de estudiantes</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="mt-10">
-                            <button class="bg-green-300 text-lg text-black w-full py-3 rounded-lg
-                             hover:bg-gray-400 hover:drop-shadow-md transition duration-300 ease-in-out">SUSCRIBIRSE</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr class="text-gray-100 mt-5" />
-            
-        </section>
-    </di>-->
-
-        <!--"Nuestros Aliados" -->
-        <div class="container mx-auto mt-10 text-center">
-            <h3 class="text-5xl font-bold mb-5 text-gray-900">
+        <!--"Nuestros Beneficios" -->
+<section id="beneficios">
+    <div class="container mt-10 text-center">
+            <h3 class="text-5xl font-bold mb-10 lg:mb-20 text-gray-900">
                 Nuestros Beneficios
             </h3>
         </div>
         
-        <div class="flex items-center justify-center min-h-screen container mx-auto">
+        <div class="flex items-center justify-center container">
             <!--GRID -->
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!--CARD -->
@@ -619,6 +276,8 @@
         <div>
             <hr class="text-gray-100 mt-5" />
         </div>
+</section>
+        
     
 @endsection
 
