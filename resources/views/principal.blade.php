@@ -154,6 +154,32 @@
                     <a href="https://enaobs.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg font-semibold mt-4 hover:bg-pink-300 focus:scale-95 transition-all duration-200 ease-out">Conocer más</a>
                 </div>
             </div>
+
+            <!--CARD 7 -->
+            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl relative">
+                <div class="absolute top-0 right-0 bg-gray-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva</div>
+                <div class="p-5 flex flex-col" style="text-align: center;">
+                    <div class="rounded-xl overflow-hidden">
+                        <img src="/image/carousel/enare.png" alt="Web en construccion" class="size-32" style="margin: 0 auto;">
+                    </div>
+                    <h5 class="text-2xl md:text-3xl font-medium mt-3">enare</h5>
+                    <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen de Residentado de Enfermería</p>
+                    <a href="https://enare.banquea.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg font-semibold mt-4 hover:bg-pink-300 focus:scale-95 transition-all duration-200 ease-out">Conocer más</a>
+                </div>
+            </div>
+
+            <!--CARD 8 -->
+            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl relative">
+                <!--<div class="absolute top-0 right-0 bg-gray-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva</div>-->
+                <div class="p-5 flex flex-col" style="text-align: center;">
+                    <div class="rounded-xl overflow-hidden">
+                        <img src="/image/carousel/en_construccion.png" alt="Web en construccion" class="size-32" style="margin: 0 auto;">
+                    </div>
+                    <h5 class="text-2xl md:text-3xl font-medium mt-3">enaro</h5>
+                    <!--<p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen Nacional de Obstetricia</p>-->
+                    <div class="text-center bg-gray-500 text-white py-2 rounded-lg font-semibold mt-4 focus:scale-95 transition-all duration-200 ease-out">PROXIMAMENTE</div>
+                </div>
+            </div>
             
         </div>
     </div>
