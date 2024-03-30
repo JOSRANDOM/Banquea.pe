@@ -3,9 +3,15 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="ENAE, ENAM, ENAOBS, ENAO, BANQUEA, ENARM, ENAFB, ENARE">
+        <meta name="description" content="Somos una empresa peruana que busca implementar la tecnología en la educación y formación de nuevos profesionales.">
 
         <title>Banquea.pe</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
         @vite('resources/css/app.css')
+        <!--<script src="//code.tidio.co/teauekopdidtxtljjebk9zqcer4d4j3s.js" async></script>-->
         
     </head>
     <body class="site-body min-w-96">
