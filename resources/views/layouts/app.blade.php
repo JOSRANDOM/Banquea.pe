@@ -11,7 +11,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
         @vite('resources/css/app.css')
-        <!--<script src="//code.tidio.co/teauekopdidtxtljjebk9zqcer4d4j3s.js" async></script>-->
         
     </head>
     <body class="site-body min-w-96">
