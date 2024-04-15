@@ -47,6 +47,9 @@
                   <div class="carousel-item">
                     <img class="ml-auto" src="/image/carousel/enafb-phone.png" alt="enam" >
                   </div>
+                  <div class="carousel-item">
+                    <img class="ml-auto" src="/image/carousel/enare-phone.png" alt="enare" >
+                  </div>
                 </div>
               </div>
             <!--<img class="ml-auto" src="/image/carousel/hero-phone.png" alt="enae" >-->
@@ -141,7 +144,7 @@
             </div>
 
             <!--CARD 6 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl relative">
+            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <!--<div class="absolute top-0 right-0 bg-gray-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva</div>-->
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden">
@@ -154,8 +157,8 @@
             </div>
 
             <!--CARD 7 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl relative">
-                <div class="absolute top-0 right-0 bg-gray-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva</div>
+            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+                <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva <i class="bi bi-star-fill"></i></div>
                 <div class="p-5 flex flex-col" style="text-align: center;">
                         <div class="rounded-xl overflow-hidden">
                             <img src="/image/carousel/enare.png" alt="Web en construccion" class="size-32" style="margin: 0 auto;">
@@ -167,8 +170,8 @@
             </div>
                 
             <!--CARD 8 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl relative">
-                <div class="absolute top-0 right-0 bg-gray-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva</div>
+            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+                <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva <i class="bi bi-star-fill"></i></div>
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden">
                         <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
