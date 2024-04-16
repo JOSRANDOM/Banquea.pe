@@ -69,22 +69,25 @@
         <!--GRID -->
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-7 mx-auto group">
             <!--CARD -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+            <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden">
                             <img src="/image/carousel/enam.svg" alt="enae" class="size-20" style="margin: 0 auto;">
                     </div>
                             <h5 class="text-2xl md:text-3xl font-medium mt-3">enam</h5>
                             <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen 
-                            Nacional de Medicina </p> 
-                            <a href="https://enam.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
-                            font-semibold mt-4 hover:bg-blue-700 focus:scale-95 transition-all 
-                            duration-200 ease-out">Conocer más</a>
+                            Nacional de Medicina </p>
+                            
+                </div>
+                <div class="grid">
+                        <a href="https://enam.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
+                        font-semibold mt-4 hover:bg-blue-700 focus:scale-95 transition-all 
+                        duration-200 ease-out">Conocer más</a>
                 </div>
             </div>
 
             <!--CARD 2 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+            <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden">
                                 <img src="/image/carousel/enarm.png" alt="enae" class="size-20" style="margin: 0 auto;">
@@ -92,44 +95,53 @@
                                 <h5 class="text-2xl md:text-3xl font-medium mt-3">enarm</h5>
                                 <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen 
                                     Nacional de Residencia Médica </p> 
-                                <a href="https://enarm.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
-                                font-semibold mt-4 hover:bg-green-400 focus:scale-95 transition-all 
-                                duration-200 ease-out">Conocer más</a>
-                 </div>
+                                
+                </div>
+                <div class="grid">
+                    <a href="https://enarm.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
+                    font-semibold mt-4 hover:bg-green-400 focus:scale-95 transition-all 
+                    duration-200 ease-out">Conocer más</a>
+                </div>
             </div>
  
                          
              <!--CARD 3 -->
-             <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+             <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden" >
                         <img src="/image/carousel/enae.png" alt="enae" class="size-20" style="margin: 0 auto;">
                     </div>
                             <h5 class="text-2xl md:text-3xl font-medium mt-3">enae</h5>
                             <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen Nacional de Enfermería</p> 
-                            <a href="https://enae.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg 
-                            font-semibold mt-4 hover:bg-blue-300 hover:text-white focus:scale-95 transition-all 
-                            duration-200 ease-out">Conocer más</a>
+                            
+                </div>
+                <div class="grid">
+                    <a href="https://enae.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg 
+                    font-semibold mt-4 hover:bg-blue-300 hover:text-white focus:scale-95 transition-all 
+                    duration-200 ease-out">Conocer más</a>
                 </div>
             </div>
 
 
             <!--CARD 4 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+            <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden">
                                 <img src="/image/carousel/enao.png" alt="enae" class="size-20" style="margin: 0 auto;">
                     </div>
                                 <h5 class="text-2xl md:text-3xl font-medium mt-3 text-center">enao</h5>
                                 <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen Nacional de Odontología</p> 
-                                <a href="https://enao.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
-                                font-semibold mt-4 hover:bg-green-200 focus:scale-95 transition-all 
-                                duration-200 ease-out">Conocer más</a>
-                    </div>
+                                
+                </div>
+                <div class="grid">
+                    <a href="https://enao.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
+                    font-semibold mt-4 hover:bg-green-200 focus:scale-95 transition-all 
+                    duration-200 ease-out">Conocer más</a>
+                </div>
             </div>
 
             <!--CARD 5 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+            <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden">
                             <img src="/image/carousel/e3.png" alt="enae" class="size-20" style="margin: 0 auto;">
@@ -137,14 +149,17 @@
                             <h5 class="text-2xl md:text-3xl font-medium mt-3">enafb</h5>
                             <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen 
                             Nacional de Farmacia y Bioquímica </p> 
-                            <a href="https://enafb.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
-                            font-semibold mt-4 hover:bg-yellow-300 focus:scale-95 transition-all 
-                            duration-200 ease-out">Conocer más</a>
+                            
+                </div>
+                <div class="grid">
+                    <a href="https://enafb.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg
+                    font-semibold mt-4 hover:bg-yellow-300 focus:scale-95 transition-all 
+                    duration-200 ease-out">Conocer más</a>
                 </div>
             </div>
 
             <!--CARD 6 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+            <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <!--<div class="absolute top-0 right-0 bg-gray-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva</div>-->
                 <div class="p-5 flex flex-col" style="text-align: center;">
                     <div class="rounded-xl overflow-hidden">
@@ -152,35 +167,42 @@
                     </div>
                     <h5 class="text-2xl md:text-3xl font-medium mt-3">enaobs</h5>
                     <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen Nacional de Obstetricia</p>
+                    
+                </div>
+                <div class="grid">
                     <a href="https://enaobs.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg font-semibold mt-4 hover:bg-pink-300 focus:scale-95 transition-all duration-200 ease-out">Conocer más</a>
                 </div>
             </div>
 
             <!--CARD 7 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+            <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva <i class="bi bi-star-fill"></i></div>
                 <div class="p-5 flex flex-col" style="text-align: center;">
                         <div class="rounded-xl overflow-hidden">
-                            <img src="/image/carousel/enare.png" alt="Web en construccion" class="size-32" style="margin: 0 auto;">
+                            <img src="/image/carousel/enare.png" alt="enare" class="size-20" style="margin: 0 auto;">
                         </div>
                     <h5 class="text-2xl md:text-3xl font-medium mt-3">enare</h5>
                     <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen de Residentado de Enfermería</p>
+                    
+                </div>
+                <div class="grid">
                     <a href="https://enare.banquea.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg font-semibold mt-4 hover:bg-blue-400 focus:scale-95 transition-all duration-200 ease-out">Conocer más</a>
                 </div>
             </div>
                 
             <!--CARD 8 -->
-            <div class="card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
+            <div class="grid content-between card bg-white/10 duration-500 group-hover:blur-sm hover:!blur-none group-hover:scale-[0.85] hover:!scale-100 cursor-pointer p-8 rounded-xl">
                 <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 rounded-bl-xl font-semibold text-sm lg:text-base">Plataforma Nueva <i class="bi bi-star-fill"></i></div>
                 <div class="p-5 flex flex-col" style="text-align: center;">
-                    <div class="rounded-xl overflow-hidden">
-                        <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
-                    <dotlottie-player src="https://lottie.host/68d73104-e1f3-48dc-a975-22d12edf946d/9YulZWLTq8.json" background="transparent" speed="1" class="size-32" style="margin: 0 auto;" loop autoplay></dotlottie-player>
-            
-                    </div>
+                        <div class="rounded-xl overflow-hidden">
+                            <img src="/image/carousel/enaro.png" alt="enaro" class="size-20" style="margin: 0 auto;">
+                        </div>
                     <h5 class="text-2xl md:text-3xl font-medium mt-3">enaro</h5>
                     <p class="text-slate-500 text-lg mt-3 text-center">Prepárate para el Examen de Residentado de Odontología</p>
-                    <div class="text-center bg-gray-500 text-white py-2 rounded-lg font-semibold mt-4 focus:scale-95 transition-all duration-200 ease-out">PROXIMAMENTE</div>
+                    
+                </div>
+                <div class="grid">
+                    <a href="https://enare.banquea.pe" class="text-center bg-gray-500 text-white py-2 rounded-lg font-semibold mt-4 hover:bg-blue-400 focus:scale-95 transition-all duration-200 ease-out">Conocer más</a>
                 </div>
             </div>
         </div>
