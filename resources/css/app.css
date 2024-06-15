@@ -9,16 +9,17 @@
     }
 }
 
+.copyright {
+    padding: 20px 0;
+    border-top:  1px dotted #717173;
+    text-align: center;
+}
+
 .t3-copyright{
-    font-size: 10px;
+    font-size: 12px;
 }
 
 .wrap{
     width: auto;
     clear: both;
-}
-
-.copyright {
-    padding: 20px 0;
-    text-align: center;
 }

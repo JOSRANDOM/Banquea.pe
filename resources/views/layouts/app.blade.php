@@ -127,11 +127,19 @@
                         </div>
                     </div>
                 </div>
-                <div class="copyrigh text-center">
-                    <p>© Copyright 2024 BANQUEA.PE, Todos los Derechos Reservados.</p>
-                </div>
+                <section class="t3-copyright">
+                    <div class="wrap bg-black text-white">
+                      <div class="container">
+                        <div class="custom">
+                          <div class="copyright">
+                            Copyright 2024 Benlos S.A.C, Todos los Derechos Reservados. Desarrollado por 
+                            <a class="pb-4 hover:text-green-300 duration-500" href="#" target="_blank">JOSSDEV</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
             </div>
-            
         </footer>
 
     </body>
