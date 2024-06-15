@@ -127,6 +127,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="copyrigh text-center">
+                    <p>© Copyright 2024 BANQUEA.PE, Todos los Derechos Reservados.</p>
+                </div>
             </div>
             
         </footer>

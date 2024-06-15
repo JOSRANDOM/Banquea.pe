@@ -8,3 +8,17 @@
         @apply rounded-xl shadow-lg;
     }
 }
+
+.t3-copyright{
+    font-size: 10px;
+}
+
+.wrap{
+    width: auto;
+    clear: both;
+}
+
+.copyright {
+    padding: 20px 0;
+    text-align: center;
+}
